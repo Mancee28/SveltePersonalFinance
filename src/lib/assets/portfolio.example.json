@@ -1,0 +1,36 @@
+{
+	"disclaimer": "This is not financial advice. The data is for example purposes only.",
+	"equity": [
+		{
+			"isin": "IE00BK5BQT80",
+			"ticker": "VWCE.DE",
+			"name": "Vanguard FTSE All-World UCITS ETF",
+			"provider": "Vanguard",
+			"units": 1.0,
+			"ter": 0.22,
+			"accumulating": true
+		}
+	],
+	"bonds": [
+		{
+			"isin": "LU0378818131",
+			"ticker": "DBZB.DE",
+			"name": "Xtrackers II Global Government Bond UCITS ETF 1C EUR Hedged",
+			"provider": "Xtrackers",
+			"units": 0.5,
+			"ter": 0.25,
+			"accumulating": true
+		}
+	],
+	"commodities": [
+		{
+			"isin": "IE00B4ND3602",
+			"ticker": "PPFB.DE",
+			"name": "iShares Physical Gold ETC",
+			"provider": "iShares",
+			"units": 0.159362,
+			"ter": 0.12,
+			"accumulating": true
+		}
+	]
+}
