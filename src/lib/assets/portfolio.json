@@ -1,0 +1,53 @@
+{
+  "equity": [
+    {
+      "isin": "LU0908500753",
+      "ticker": "LYP6.DE",
+      "name": "Amundi STOXX Europe 600",
+      "provider": "Amundi",
+      "units": 0.7722,
+      "ter": 0.07,
+      "accumulating": true
+    },
+    {
+      "isin": "IE000XZSV718",
+      "ticker": "SPYL.DE",
+      "name": "SPDR S&P 500 UCITS ETF",
+      "provider": "SPDR",
+      "units": 10.569086,
+      "ter": 0.07,
+      "accumulating": true
+    },
+    {
+      "isin": "IE00BKM4GZ66",
+      "ticker": "IS3N.DE",
+      "name": "iShares Core MSCI EM IMI UCITS ETF",
+      "provider": "iShares",
+      "units": 1.206572,
+      "ter": 0.18,
+      "accumulating": true
+    }
+  ],
+  "bonds": [
+    {
+      "isin": "IE00B1FZS681",
+      "ticker": "IBCN.DE",
+      "name": "iShares € Govt Bond 3-5yr UCITS ETF",
+      "provider": "iShares",
+      "units": 0.154285,
+      "ter": 0.15,
+      "accumulating": false
+    }
+  ],
+  "commodities": [
+    {
+      "isin": "IE00B4ND3602",
+      "ticker": "PPFB.DE",
+      "name": "iShares Physical Gold ETC",
+      "provider": "iShares",
+      "units": 0.159362,
+      "ter": 0.12,
+      "accumulating": true
+    }
+  ]
+}
