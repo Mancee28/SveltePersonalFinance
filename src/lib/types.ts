@@ -6,6 +6,7 @@ export interface Asset {
 	currency: 'EUR' | 'USD' | string;
 	units: number;
 	ter: number;
+	target: number;
 	currentPrice?: number;
 	currentValue?: number;
 	percentage?: number;

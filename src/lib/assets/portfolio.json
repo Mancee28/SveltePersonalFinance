@@ -7,6 +7,7 @@
       "provider": "Amundi",
       "units": 0.7722,
       "ter": 0.07,
+      "target" : 0.25,
       "accumulating": true
     },
     {
@@ -16,6 +17,7 @@
       "provider": "SPDR",
       "units": 10.569086,
       "ter": 0.07,
+      "target" : 0.4,
       "accumulating": true
     },
     {
@@ -25,7 +27,18 @@
       "provider": "iShares",
       "units": 1.206572,
       "ter": 0.18,
+      "target": 0.15,
       "accumulating": true
+    },
+    {
+        "isin": "IE00BFMXYX26",
+        "ticker": "VJPA.DE",
+        "name": "Vanguard FTSE Japan UCITS ETF",
+        "provider": "Vanguard",
+        "units": 3.031221,
+        "ter": 0.15,
+        "target": 0.1,
+        "accumulating": true
     }
   ],
   "bonds": [
@@ -36,6 +49,7 @@
       "provider": "iShares",
       "units": 0.154285,
       "ter": 0.15,
+      "target" : 0.05,
       "accumulating": false
     }
   ],
@@ -47,6 +61,7 @@
       "provider": "iShares",
       "units": 0.159362,
       "ter": 0.12,
+      "target" : 0.05,
       "accumulating": true
     }
   ]
