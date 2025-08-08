@@ -16,7 +16,7 @@
       "name": "SPDR S&P 500 UCITS ETF",
       "provider": "SPDR",
       "units": 10.569086,
-      "ter": 0.07,
+      "ter": 0.03,
       "target" : 0.4,
       "accumulating": true
     },
